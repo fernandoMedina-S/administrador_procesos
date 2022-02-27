@@ -7,8 +7,11 @@ const Navbar = () => {
         <a href="#" className="navbar__title">
           <li >Seminario de sistemas operativos</li>
         </a>
-        <a href="#" className="navbar__activity">
+        <a href="https://fernandomedina-s.github.io/multiprogramacion/" className="navbar__activity">
           <li >Procesamiento Multiprogramación</li>
+        </a>
+        <a href="#" className="navbar__activity">
+          <li>Administrador de procesos</li>
         </a>
       </ul>
     </>

@@ -1,12 +1,13 @@
 import "./App.scss";
 import Navbar from "./components/Navbar";
 import Lotes from "./pages/Lotes";
+import Administrador from "./pages/Administrador";
 
 function App() {
   return (
     <>
       <Navbar/>
-      <Lotes></Lotes>
+      <Administrador></Administrador>
     </>
   );
 }

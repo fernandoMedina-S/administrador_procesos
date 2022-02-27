@@ -1,10 +1,27 @@
+.process__container{
+    display: flex;
+}
+
 .process__bar{
+    
     display: flex;
     flex-direction: column;
     font-size: .5rem;
-    border:solid #bc4749;
+    border:solid #dda15e;
     background-color: rgb(245, 239, 239);
     padding: 1rem;
     border-radius: 30px;
 }
 
+.process__buttons{
+    display: flex;
+    margin-top: 4rem;
+}
+
+.process__button{
+    margin-right: 2rem;
+    color: #8e412e;
+    &:hover{
+        cursor: pointer;
+    }
+}
