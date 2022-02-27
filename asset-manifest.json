@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/administrador-procesos/static/css/main.10a325f0.css",
+    "main.js": "/administrador-procesos/static/js/main.af1bcc3d.js",
+    "static/js/787.35b6640d.chunk.js": "/administrador-procesos/static/js/787.35b6640d.chunk.js",
+    "index.html": "/administrador-procesos/index.html",
+    "main.10a325f0.css.map": "/administrador-procesos/static/css/main.10a325f0.css.map",
+    "main.af1bcc3d.js.map": "/administrador-procesos/static/js/main.af1bcc3d.js.map",
+    "787.35b6640d.chunk.js.map": "/administrador-procesos/static/js/787.35b6640d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.10a325f0.css",
+    "static/js/main.af1bcc3d.js"
+  ]
+}
