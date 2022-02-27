@@ -1,6 +1,6 @@
 {
-  "homepage": "http://fernandoMedina-S.github.io/multiprogramacion",
-  "name": "por-lotes",
+  "homepage": "http://fernandoMedina-S.github.io/administrador_procesos",
+  "name": "dministrador-procesos",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
